@@ -37,3 +37,11 @@ streamlit run app.py
 - Select a model
 - Upload a yoga pose image
 - See the predicted class
+
+## Demo
+
+Below is a demonstration of the app using a sample image:
+
+<p align="center">
+  <img src="image/demo3.png" alt="Demo 3" width="200"/>
+</p>
